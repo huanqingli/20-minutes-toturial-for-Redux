@@ -1,0 +1,12 @@
+span {
+  padding: 5px;
+  margin: 15px;
+  cursor: pointer;
+  border: 1px solid #CCCCCC;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+
+div {
+  margin-top: 50px; }
